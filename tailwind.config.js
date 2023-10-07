@@ -7,6 +7,7 @@ export default {
   theme: {
     extend: {
       screens: {
+        'small': '700px',
         'checkpoint': '930px'
       },
       fontFamily: {
