@@ -25,3 +25,7 @@ dist-ssr
 
 # Files using the default settings no need to show them
 index.html
+package-lock.json
+package.json
+postcss.config.js
+vite.config.js
